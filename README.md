@@ -1,6 +1,6 @@
-## Your Name
+## Emily Cowan 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+As a recent graduate of Makers Academy’s software development program, I am excited to begin a career in the tech world. My background in client management, sales and project management, coupled with proficiency in Agile methodologies and problem-solving equips me with an ideal skill set to excel as a software developer. 
 
 ## Projects
 
@@ -11,59 +11,64 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+<i>October 2021-April 2023 - Membership Manager | Work.Life </i>
+Work.Life is a leading coworking provider for businesses and professionals. I headed the member community, space operations and commercials in the Hammersmith space. 
+- Increased occupancy from 41% to 100% in 18 months by leading a refreshed sales & marketing strategy. 
+- Achieved high retention rates by ensuring customers received a consistently high and personalised service level and negotiating contract terms without compromising commercial goals. 
+- Raised the NPS average for resident members from 50 to 82 by fostering client relations, and successfully overseeing space operations. 
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+<i>August 2019-September 2021 - Manager, Partner Services | Cruise Lines International Association (CLIA) </i>
+CLIA is the global trade association for the cruise industry and its suppliers. Promoted to Manager thanks to satisfied customers and achieving challenging internal KPI targets.
+- Co-responsible for 2 of CLIA’s 3 revenue streams through management of over 400 clients.
+- Led a refocusing of CLIA’s onboarding, offer and renewal process, to improve customers’ ROI from and engagement with CLIA. Satisfaction KPIs increased and retention grew by 12%. 
+- Chosen by the CEO to co-manage a strategic programme offering pandemic crisis support to the 50+ biggest clients, generating an incremental $3M. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+<i>March 2016-July 2019 - Partner Services Executive | Cruise Lines International Association (CLIA) </i>
+- Built lasting relationships with large fortune 500 company members to small, family-owned businesses via effective communication and delivery.
+- Additional expertise includes transforming and managing CLIA’s global customer portal, CRM implementation, customer segmentation, product training, budget planning, cross-continental team-working, customer feedback analysis.
 
-- Any experience relevent to software development
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Problem Solving
+As Membership Manager at Work.Life I was really able to demonstrate my problem-solving skills. Having inherited a coworking space that was 41% occupied I undertook a systematic approach. I was able to analyse the multi-layered issues on a large scale and break these down to manageable components. This led to occupancy levels reaching 100% against a goal of 90%. Furthermore, I regularly resolved day-to-day problems such as contract negotiation, troubleshooting technical issues, and facilitating conflict resolution. 
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Project Management 
+During my role as Manager, Partner Services at CLIA I led the successful implementation of a new CRM system (Aptify). This involved a rigorous initiation and planning process in order to roll out smoothly across several teams with varying requirements. Agile methodologies aided the continual betterment of the project throughout. In addition, this project inspired a new love for technology in the workplace and provided an opportunity to hone valuable technical skills. 
 
+#### Collaboration 
+Collaboration has been a skill continuously developed during my education and further refined throughout my career. I enjoy knowledge sharing and during my time at Makers Academy, collaborative coding was integral to our group projects. At Work.Life effective collaboration was paramount to sales successes and high levels of retention by working closely with the commercial director, marketing team, other membership managers and external suppliers. 
 
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Additional Skills 
+CRM (Nexudus, Aptify), Hubspot, Leadership, SPSS Statistics, Xero financial management, PnL, forecasting, revenue & budget management, team leadership, PRINCE2: Foundation & Practitioner in Project Management
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2023 - October 2023)
+- Worked with a variety of programming languages including Python, Javascript, Swift, HTML and CSS. 
+- Applied Test Driven Design principles (e.g. Pytest, Jest and SwiftUI) to enhance debugging and ensuring efficient problem-solving.
+- Regularly collaborated in teams and pairs, leveraging key teamwork and communication skills to achieve project goals. 
+- Utilised Object-Oriented Programming to ensure manageability of projects.
+- Applied Agile learning to continuously improve and foster collaboration and adaptability. 
+- Implemented Model-View-Controller pattern when creating web applications, aiding effective teamwork. 
+- Practiced Domain-Driven Design to gain a full understanding software and project structure.  
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Birmingham (September 2012 - July 2015) 
+- Geography BSc 
+- 2:1 
+- Member of UNICEF on Campus
 
-#### Any other qualifications
+#### Peter Symonds College (September 2009 - July 2011) 
+- A-Levels
+- A* General Studies, A Geography, A History, B English Literature
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Henry Beaufort School (September 2004 - July 2009) 
+- GCSEs
+- 5x A*, 5x A, 3x B
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Coding ⌨️, books, gaming 🕹, history 📖, geography 🌍 and football ⚽️

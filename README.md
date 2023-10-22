@@ -6,8 +6,10 @@ As a recent graduate of Makers Academy’s software development program, I am ex
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Chaptrs (Final Project at Makers Academy)](https://github.com/ami-day/chaptrs)            | Full stack group project. Web app for a bookclub | MERN stack, Javascript, CSS, Jest, Figma, Google Books API, VS Code |
+| [Acebook Mobile App](https://github.com/elliepriestley/Team_Mage_Swiftui_Acebook_Mobile_App)  | Frontend group project. Social media app based on Facebook | Swigt, XCode, SwiftUI              |
+| [Acebook Web App](https://github.com/Super-robbin/acebook-team-earth)  | Full stack grouo project. Social media app based on Facebook | MERN stack, Jest, CSS, VS Code, Javascript, HTML              |
+| [MakersBNB Web App](https://github.com/denisecodes/makersbnb)  | Group project web app based on AirBNB | Python, Pytest, VS Code, SQL, Flask, Postgres, HTML              |
 
 ## Work Experience
 

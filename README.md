@@ -11,21 +11,27 @@ As a recent graduate of Makers Academy’s software development program, I am ex
 
 ## Work Experience
 
-<i>October 2021-April 2023 - Membership Manager | Work.Life </i>
+<b>October 2021-April 2023 - Membership Manager</b> | <b>Work.Life </b>  
+
 Work.Life is a leading coworking provider for businesses and professionals. I headed the member community, space operations and commercials in the Hammersmith space. 
 - Increased occupancy from 41% to 100% in 18 months by leading a refreshed sales & marketing strategy. 
 - Achieved high retention rates by ensuring customers received a consistently high and personalised service level and negotiating contract terms without compromising commercial goals. 
 - Raised the NPS average for resident members from 50 to 82 by fostering client relations, and successfully overseeing space operations. 
 
-<i>August 2019-September 2021 - Manager, Partner Services | Cruise Lines International Association (CLIA) </i>
+<b>August 2019-September 2021 - Manager, Partner Services</b> | <b>Cruise Lines International Association (CLIA) </b>  
+
 CLIA is the global trade association for the cruise industry and its suppliers. Promoted to Manager thanks to satisfied customers and achieving challenging internal KPI targets.
 - Co-responsible for 2 of CLIA’s 3 revenue streams through management of over 400 clients.
 - Led a refocusing of CLIA’s onboarding, offer and renewal process, to improve customers’ ROI from and engagement with CLIA. Satisfaction KPIs increased and retention grew by 12%. 
 - Chosen by the CEO to co-manage a strategic programme offering pandemic crisis support to the 50+ biggest clients, generating an incremental $3M. 
 
-<i>March 2016-July 2019 - Partner Services Executive | Cruise Lines International Association (CLIA) </i>
+<b>March 2016-July 2019 - Partner Services Executive</b> | <b>Cruise Lines International Association (CLIA) </b>  
+
 - Built lasting relationships with large fortune 500 company members to small, family-owned businesses via effective communication and delivery.
 - Additional expertise includes transforming and managing CLIA’s global customer portal, CRM implementation, customer segmentation, product training, budget planning, cross-continental team-working, customer feedback analysis.
+
+<b>August 2015-February 2016 - Pre-Works Coordinator</b> | <b>Amey Plc</b>   
+- Employed temporarily to tackle a longstanding backlog which I successfully reduced to zero in just 3 weeks. As a result, my contract was repeatedly extended, I took on a second role as Plant Administrator, and I was given additional client-facing responsibilities, in particular emergency responses.
 
 
 ## Skills

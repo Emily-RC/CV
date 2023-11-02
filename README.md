@@ -13,7 +13,7 @@ As a recent graduate of Makers Academy’s software development program, I am ex
 
 ## Work Experience
 
-#### Makers Academy (July 2023 - October 2023)
+<b>July 2023 - October 2023 - Bootcamp Student</b> | <b>Makers Academy</b>
 - Worked with a variety of programming languages including Python, Javascript, Swift, HTML and CSS. 
 - Applied Test Driven Design principles (e.g. Pytest, Jest and SwiftUI) to enhance debugging and ensuring efficient problem-solving.
 - Regularly collaborated in teams and pairs, leveraging key teamwork and communication skills to achieve project goals. 

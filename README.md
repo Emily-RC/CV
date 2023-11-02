@@ -13,6 +13,15 @@ As a recent graduate of Makers Academy’s software development program, I am ex
 
 ## Work Experience
 
+#### Makers Academy (July 2023 - October 2023)
+- Worked with a variety of programming languages including Python, Javascript, Swift, HTML and CSS. 
+- Applied Test Driven Design principles (e.g. Pytest, Jest and SwiftUI) to enhance debugging and ensuring efficient problem-solving.
+- Regularly collaborated in teams and pairs, leveraging key teamwork and communication skills to achieve project goals. 
+- Utilised Object-Oriented Programming to ensure manageability of projects.
+- Applied Agile learning to continuously improve and foster collaboration and adaptability. 
+- Implemented Model-View-Controller pattern when creating web applications, aiding effective teamwork. 
+- Practiced Domain-Driven Design to gain a full understanding software and project structure. 
+
 <b>October 2021-April 2023 - Membership Manager</b> | <b>Work.Life </b>  
 
 Work.Life is a leading coworking provider for businesses and professionals. I headed the member community, space operations and commercials in the Hammersmith space. 
@@ -52,16 +61,6 @@ CRM (Nexudus, Aptify), Hubspot, Leadership, SPSS Statistics, Xero financial mana
 
 
 ## Education
-
-#### Makers Academy (July 2023 - October 2023)
-- Worked with a variety of programming languages including Python, Javascript, Swift, HTML and CSS. 
-- Applied Test Driven Design principles (e.g. Pytest, Jest and SwiftUI) to enhance debugging and ensuring efficient problem-solving.
-- Regularly collaborated in teams and pairs, leveraging key teamwork and communication skills to achieve project goals. 
-- Utilised Object-Oriented Programming to ensure manageability of projects.
-- Applied Agile learning to continuously improve and foster collaboration and adaptability. 
-- Implemented Model-View-Controller pattern when creating web applications, aiding effective teamwork. 
-- Practiced Domain-Driven Design to gain a full understanding software and project structure.  
-
 
 #### University of Birmingham (September 2012 - July 2015) 
 - Geography BSc 

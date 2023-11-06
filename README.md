@@ -1,6 +1,10 @@
 ## Emily Cowan 
 
-As a recent graduate of Makers Academy’s software development program, I am excited to begin a career in the tech world. My background in client management, sales and project management, coupled with proficiency in Agile methodologies and problem-solving equips me with an ideal skill set to excel as a software developer. 
+As a recent graduate of Makers Academy’s software development program, I’m keen to begin a career in the tech world. My background in client management, sales and project management, coupled with proficiency in Agile methodologies and problem-solving equips me with an ideal skill set to succeed as a software developer. 
+
+My interest in technology began early via coding my own blogs, and later grew while leading a CRM implementation in my first post-university role. This experience really ignited my interest about the intricacies of technology and its potential to enhance user experiences and I loved gaining previously untapped technical skills. This professional curiosity ultimately led me to Makers Academy where I learnt Python, Javascript, Swift, React, HTML5 and CSS alongside Test Driven Design, Object-Oriented Programming and Model-View-Controller pattern. 
+
+I genuinely love learning and am seeking a role which will further hone my coding skills, develop innovative programs, websites, and mobile apps, and overall improve the user experience. Having spent 10 years working closely with client-side, I understand the value of nurturing lasting customer and team relationships and am ready to launch myself into all things technology to make a meaningful impact. 
 
 ## Projects
 

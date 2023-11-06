@@ -61,7 +61,7 @@ During my role as Manager, Partner Services at CLIA I led the successful impleme
 Collaboration has been a skill continuously developed during my education and further refined throughout my career. I enjoy knowledge sharing and during my time at Makers Academy, collaborative coding was integral to our group projects. At Work.Life effective collaboration was paramount to sales successes and high levels of retention by working closely with the commercial director, marketing team, other membership managers and external suppliers. 
 
 #### Additional Skills 
-CRM (Nexudus, Aptify), Hubspot, Leadership, SPSS Statistics, Xero financial management, PnL, forecasting, revenue & budget management, team leadership, PRINCE2: Foundation & Practitioner in Project Management
+Problem-solving and analytical thinking, empathic communicator, CRM management (Nexudus, Aptify), Hubspot/Sales pipeline management, SPSS Statistics, Xero financial management, PnL, forecasting, revenue & budget management, leadership, PRINCE2: Foundation & Practitioner in Project Management
 
 
 ## Education

@@ -82,4 +82,4 @@ Problem-solving and analytical thinking, empathic communicator, CRM management (
 
 ## Hobbies
 
-- Coding ⌨️, books, gaming 🕹, history 📖, geography 🌍 and football ⚽️
+- Coding ⌨️, books 📚, gaming 🕹, history 📖, geography 🌍, Liverpool FC ⚽️, food 🥘, socialising 👯, pub quizzes 🧐

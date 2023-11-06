@@ -18,7 +18,7 @@ I genuinely love learning and am seeking a role which will further hone my codin
 ## Work Experience
 
 <b>July 2023 - October 2023 - Bootcamp Student</b> | <b>Makers Academy</b>
-- Worked with a variety of programming languages including Python, Javascript, Swift, HTML and CSS. 
+- Learnt how to write testable, clean code in a variety of programming languages including Python, Javascript, Swift, React, HTML5 and CSS.
 - Applied Test Driven Design principles (e.g. Pytest, Jest and SwiftUI) to enhance debugging and ensuring efficient problem-solving.
 - Regularly collaborated in teams and pairs, leveraging key teamwork and communication skills to achieve project goals. 
 - Utilised Object-Oriented Programming to ensure manageability of projects.

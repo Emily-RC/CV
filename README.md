@@ -43,7 +43,8 @@ CLIA is the global trade association for the cruise industry and its suppliers. 
 <b>March 2016-July 2019 - Partner Services Executive</b> | <b>Cruise Lines International Association (CLIA) </b>  
 
 - Built lasting relationships with large fortune 500 company members to small, family-owned businesses via effective communication and delivery.
-- Additional expertise includes transforming and managing CLIA’s global customer portal, CRM implementation, customer segmentation, product training, budget planning, cross-continental team-working, customer feedback analysis.
+- Led the company-wide CRM implementation (Aptify). 
+- Additional expertise includes transforming and managing CLIA’s global customer portal, customer segmentation, product training, budget planning, cross-continental team-working, customer feedback analysis.
 
 <b>August 2015-February 2016 - Pre-Works Coordinator</b> | <b>Amey Plc</b>   
 - Employed temporarily to tackle a longstanding backlog which I successfully reduced to zero in just 3 weeks. As a result, my contract was repeatedly extended, I took on a second role as Plant Administrator, and I was given additional client-facing responsibilities, in particular emergency responses.
